@@ -32,6 +32,8 @@ Nuestro equipo se especializa en:
 | **SIGRAN** | Sistema Integral de Gestión del Riesgo de Antioquia |
 | **DAGRAN** | Landing page Departamento administrativo de gestión de riesgos de desastres de Antioquia |
 | **Geoportal SAMA** | Plataforma geoespacial de datos y monitoreo |
+| **Manejo** | Sistema de Manejo de Emergencias de Antioquia |
+| **Repositorio SAMA** | Repositorio de Datos de SAMA |
 
 ## 💡 Stack Tecnológico
 
@@ -54,7 +56,7 @@ Trabajamos con tecnologías modernas y robustas para garantizar sistemas confiab
 
 ## 👥 Nuestro Equipo
 
-Somos un equipo de **8 profesionales** especializados en desarrollo de software y análisis de datos al servicio de la gestión del riesgo en Antioquia.
+Somos un equipo de profesionales especializados en desarrollo de software y análisis de datos al servicio de la gestión del riesgo en Antioquia.
 
 ## 📋 Nota sobre los Repositorios
 
